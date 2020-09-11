@@ -13,7 +13,7 @@ const About = () =>{
             <div className='about-card-wrapper'>
                 <div className='about-card'>
                     <div className='card-image-wrapper'>
-                        <img className='card-image' src={'/assets/search.PNG'}/> 
+                        <img className='card-image' src={'/assets/search.png'} alt={'jedna slika'}/> 
                     </div>
                     <p className='about-card-headline'>BROWSE FOR FREE</p>
                     <p className='about-card-desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -22,7 +22,7 @@ const About = () =>{
 
                 <div className='about-card'>
                     <div className='card-image-wrapper'>
-                        <img className='card-image' src={'/assets/price-tag.PNG'}/> 
+                        <img className='card-image' src={'/assets/price-tag.png'} alt={'dva'}/> 
                     </div>
                     <p className='about-card-headline'>NO HIDDEN FEES</p>
                     <p className='about-card-desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -31,7 +31,7 @@ const About = () =>{
 
                 <div className='about-card'>
                     <div className='card-image-wrapper'>
-                        <img className='card-image' src={'/assets/paper.PNG'}/> 
+                        <img className='card-image' src={'/assets/paper.png'} alt={'tri'}/> 
                     </div>
                     <p className='about-card-headline'>FREE PROPERTY APRAISALS</p>
                     <p className='about-card-desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
