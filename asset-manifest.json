@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/real-estate-agent-website/static/css/main.63856a93.chunk.css",
+    "main.js": "/real-estate-agent-website/static/js/main.2beb0658.chunk.js",
+    "main.js.map": "/real-estate-agent-website/static/js/main.2beb0658.chunk.js.map",
+    "runtime-main.js": "/real-estate-agent-website/static/js/runtime-main.c1d9b0be.js",
+    "runtime-main.js.map": "/real-estate-agent-website/static/js/runtime-main.c1d9b0be.js.map",
+    "static/js/2.022293c8.chunk.js": "/real-estate-agent-website/static/js/2.022293c8.chunk.js",
+    "static/js/2.022293c8.chunk.js.map": "/real-estate-agent-website/static/js/2.022293c8.chunk.js.map",
+    "index.html": "/real-estate-agent-website/index.html",
+    "precache-manifest.b1b58ecf1e6f282f49ee7065c70f5310.js": "/real-estate-agent-website/precache-manifest.b1b58ecf1e6f282f49ee7065c70f5310.js",
+    "service-worker.js": "/real-estate-agent-website/service-worker.js",
+    "static/css/main.63856a93.chunk.css.map": "/real-estate-agent-website/static/css/main.63856a93.chunk.css.map",
+    "static/js/2.022293c8.chunk.js.LICENSE.txt": "/real-estate-agent-website/static/js/2.022293c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1d9b0be.js",
+    "static/js/2.022293c8.chunk.js",
+    "static/css/main.63856a93.chunk.css",
+    "static/js/main.2beb0658.chunk.js"
+  ]
+}
