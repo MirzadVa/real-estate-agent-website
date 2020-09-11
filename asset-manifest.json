@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/real-estate-agent-website/static/css/main.63856a93.chunk.css",
-    "main.js": "/real-estate-agent-website/static/js/main.2beb0658.chunk.js",
-    "main.js.map": "/real-estate-agent-website/static/js/main.2beb0658.chunk.js.map",
+    "main.css": "/real-estate-agent-website/static/css/main.fda54d2b.chunk.css",
+    "main.js": "/real-estate-agent-website/static/js/main.89bee703.chunk.js",
+    "main.js.map": "/real-estate-agent-website/static/js/main.89bee703.chunk.js.map",
     "runtime-main.js": "/real-estate-agent-website/static/js/runtime-main.c1d9b0be.js",
     "runtime-main.js.map": "/real-estate-agent-website/static/js/runtime-main.c1d9b0be.js.map",
-    "static/js/2.022293c8.chunk.js": "/real-estate-agent-website/static/js/2.022293c8.chunk.js",
-    "static/js/2.022293c8.chunk.js.map": "/real-estate-agent-website/static/js/2.022293c8.chunk.js.map",
+    "static/js/2.84158ee2.chunk.js": "/real-estate-agent-website/static/js/2.84158ee2.chunk.js",
+    "static/js/2.84158ee2.chunk.js.map": "/real-estate-agent-website/static/js/2.84158ee2.chunk.js.map",
     "index.html": "/real-estate-agent-website/index.html",
-    "precache-manifest.b1b58ecf1e6f282f49ee7065c70f5310.js": "/real-estate-agent-website/precache-manifest.b1b58ecf1e6f282f49ee7065c70f5310.js",
+    "precache-manifest.00a1d6bb9ffe487da58b7ed93a633aff.js": "/real-estate-agent-website/precache-manifest.00a1d6bb9ffe487da58b7ed93a633aff.js",
     "service-worker.js": "/real-estate-agent-website/service-worker.js",
-    "static/css/main.63856a93.chunk.css.map": "/real-estate-agent-website/static/css/main.63856a93.chunk.css.map",
-    "static/js/2.022293c8.chunk.js.LICENSE.txt": "/real-estate-agent-website/static/js/2.022293c8.chunk.js.LICENSE.txt"
+    "static/css/main.fda54d2b.chunk.css.map": "/real-estate-agent-website/static/css/main.fda54d2b.chunk.css.map",
+    "static/js/2.84158ee2.chunk.js.LICENSE.txt": "/real-estate-agent-website/static/js/2.84158ee2.chunk.js.LICENSE.txt",
+    "static/media/listing-cards.css": "/real-estate-agent-website/static/media/house-two.9c0ef365.jpg",
+    "static/media/maincont.css": "/real-estate-agent-website/static/media/wallpaper1.51c64576.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c1d9b0be.js",
-    "static/js/2.022293c8.chunk.js",
-    "static/css/main.63856a93.chunk.css",
-    "static/js/main.2beb0658.chunk.js"
+    "static/js/2.84158ee2.chunk.js",
+    "static/css/main.fda54d2b.chunk.css",
+    "static/js/main.89bee703.chunk.js"
   ]
 }
