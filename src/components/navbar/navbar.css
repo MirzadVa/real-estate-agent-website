@@ -64,7 +64,7 @@
     .hamburger-holder{
         height: 40px;
         width: 100%;
-        background: url('/assets/menu.png') no-repeat 85% center;
+        background: url('../assets/menu.png') no-repeat 85% center;
         
     }
     .navigation ul{

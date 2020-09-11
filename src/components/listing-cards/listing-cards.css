@@ -19,7 +19,7 @@
 }
 .card-image-holder{
     height: 50%;
-    background-image: url('/assets/houses/house-one.JPG');
+    background-image: url('../assets/houses/house-one.jpg');
     background-size: cover;
 }
 .card-info-holder{
@@ -58,23 +58,23 @@
 box-shadow: 2px 12px 11px -6px rgba(0,0,0,0.52);
 }
 #two{
-    background-image: url('/assets/houses/house-two.jpg');
+    background-image: url('../assets/houses/house-two.jpg');
     background-size: cover;
 }
 #three{
-    background-image: url('/assets/houses/house-three.jpg');
+    background-image: url('../assets/houses/house-three.jpg');
     background-size: cover;
 }
 #four{
-    background-image: url('/assets/houses/house-four.jpg');
+    background-image: url('../assets/houses/house-four.jpg');
     background-size: cover;
 }
 #five{
-    background-image: url('/assets/houses/house-five.jpg');
+    background-image: url('../assets/houses/house-five.jpg');
     background-size: cover;
 }
 #six{
-    background-image: url('/assets/houses/house-six.jpg');
+    background-image: url('../assets/houses/house-six.jpg');
     background-size: cover;
 }
   

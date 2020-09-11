@@ -1,6 +1,7 @@
 import React from 'react';
 import './maincont.css';
 
+
 const MainCont =()=>{
     return(
         <div className='all'>
