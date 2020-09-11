@@ -13,7 +13,7 @@ const About = () =>{
             <div className='about-card-wrapper'>
                 <div className='about-card'>
                     <div className='card-image-wrapper'>
-                        <img className='card-image' src={'/assets/search.png'}/> 
+                        <img className='card-image' src={'/assets/search.PNG'}/> 
                     </div>
                     <p className='about-card-headline'>BROWSE FOR FREE</p>
                     <p className='about-card-desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -22,7 +22,7 @@ const About = () =>{
 
                 <div className='about-card'>
                     <div className='card-image-wrapper'>
-                        <img className='card-image' src={'/assets/price-tag.png'}/> 
+                        <img className='card-image' src={'/assets/price-tag.PNG'}/> 
                     </div>
                     <p className='about-card-headline'>NO HIDDEN FEES</p>
                     <p className='about-card-desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -31,7 +31,7 @@ const About = () =>{
 
                 <div className='about-card'>
                     <div className='card-image-wrapper'>
-                        <img className='card-image' src={'/assets/paper.png'}/> 
+                        <img className='card-image' src={'/assets/paper.PNG'}/> 
                     </div>
                     <p className='about-card-headline'>FREE PROPERTY APRAISALS</p>
                     <p className='about-card-desc'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
