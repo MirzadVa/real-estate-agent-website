@@ -1,0 +1,11 @@
+.offers-wrapper{
+    height: 100vh;
+    width: 100%;
+}
+@media (max-width: 480px){
+
+    .about-headline-wrapper{
+        width: 100%;
+        text-align: center;
+    }
+}

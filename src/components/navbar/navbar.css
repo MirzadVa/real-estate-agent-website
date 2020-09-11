@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+.navbar-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-bottom: 1px solid #555657;
+    background-color: rgba(250, 250, 250, 0.9);
+    position: fixed;
+    z-index: 1;
+}
+.nav-holder{
+    width: 80%;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.logo-holder > h2{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    color:#555657 ;
+}
+.navigation > ul > li{
+    display: inline-block;
+    list-style-type: none;
+    margin: 0px 10px;
+    font-size:13px ;
+    font-family: 'Nanum Gothic', sans-serif;
+    cursor: pointer;
+    color:#555657 ;
+}
+.navigation > ul > li:hover{
+    color: aqua;
+}
+@media (max-width: 800px){
+    .nav-holder{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        height: auto;
+
+    }
+    .logo-holder{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .logo-holder h2{
+        font-size: 15px;
+    }
+    .logo-menu{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .hamburger-holder{
+        height: 40px;
+        width: 100%;
+        background: url('/assets/menu.png') no-repeat 85% center;
+        
+    }
+    .navigation ul{
+        height: 0;
+        overflow: hidden; 
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+       
+
+    }
+    .navigation > ul > li{
+        margin: 4px 0;
+    }
+    
+    .navigation ul.open{
+        height: auto; 
+        
+        
+    }
+    
+}

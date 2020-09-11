@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@600&display=swap');
+.about-wrapper{
+    width: 100%;
+    background: rgb(219,219,219);
+    background: linear-gradient(0deg, rgba(219,219,219,0.6867121848739496) 0%, rgba(236,233,238,0) 100%);
+    height: auto;
+
+}
+.about-headline-wrapper{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+.about-headline-wrapper h3{
+    font-size: 2em;
+    font-family: 'Mukta', sans-serif;
+    color:#555657 ;
+}
+.about-headline-wrapper p{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 15px;
+}
+.about-headline-wrapper p{
+    margin-top: 10px;
+}
+.about-card-wrapper{
+
+    height: 50%;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.about-card{
+    width: 25%;
+    height: 200px;
+    border-top: 5px solid rgb(65,57,204);
+    border-top-left-radius: 3%;
+    border-top-right-radius: 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    -webkit-box-shadow: 1px 0px 44px -24px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 0px 44px -24px rgba(0,0,0,0.75);
+    box-shadow: 1px 0px 44px -24px rgba(0,0,0,0.75);
+   
+}
+.card-image-wrapper{
+    background-color: rgb(65,57,204);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.card-image{
+    height: 20px;
+    width: 20px;
+}
+.about-card-headline{
+    font-size: 13px;
+    font-family: 'Mukta', sans-serif;
+    color:#000000;
+    margin-top:10px ;
+}
+.about-card-desc{
+    margin-top: 10px;
+    width: 70%;
+    font-size: 11px;
+    text-align: center;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: #555657;
+}
+.agent-button{
+    text-align: center;
+    width: 150px;
+    margin: auto;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(65,57,204);
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+@media (max-width: 480px){
+    .about-card-wrapper{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 100vh;
+        width: 100%;
+        background: rgb(219,219,219);
+        background: radial-gradient(circle, rgba(219,219,219,0.6867121848739496) 0%, rgba(236,233,238,0) 100%);
+    }
+    .about-headline-wrapper h3{
+        font-size: 20px;
+        width: 80%;
+    }
+    .desc-one{
+        margin-top: 35px;
+    }
+    .about-headline-wrapper p{
+        font-family: 'Nanum Gothic', sans-serif;
+        font-size: 10px;
+        width: 80%;
+        text-align: center;
+    }
+    .about-card{
+        width: 60%;
+        margin-top: 0px;
+       
+    }
+    .agent-button{
+        margin-top: 20px;
+    }
+
+}
